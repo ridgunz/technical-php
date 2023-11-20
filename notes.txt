@@ -1,0 +1,14 @@
+------------------------------------------------------------
+******************** TECHNICAL TEST PHP ********************
+******************** By Muhammad Ridwan ********************
+------------------------------------------------------------
+
+Notes : 
+* Import file Sql yang terdapat pada folder Database
+* Menggunakan php versi 7.1.33 dan mysqli
+* Menggunakan XAMPP versi 7.1.33.1 Rev 1
+* Menggunakan Bootsrap v4.5.2
+* php dapat dijalankan menggunakan command php -S localhost:8000
+* Untuk test users admin dapat menggunakan email : rid6unz@gmail.com dan password 123
+* Untuk test users member dapat menggunakan email : ridwanmhmmd18@gmail.com dan password 123
+* Jika ingin mendaftarkan users baru bisa menggunakan form register yang telah disediakan
